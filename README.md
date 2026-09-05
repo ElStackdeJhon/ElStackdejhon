@@ -5,7 +5,7 @@
   <h1>Welcome to Jhon's Github &lt;/&gt;</h1>
   <img src="./fondo.png" width="100%" alt="Header Banner" />
 
-  <p><i>Desarrollador de Software | Estudiante de Ingeniería de Sistemas</i></p>
+  <p><i>Software-Developer/Cybersegurity-BlueTeam | Ingeniero de Sistemas</i></p>
 
   <!-- Badges de contacto -->
   <a href="https://linkedin.com/in/jhonmolina1508">
