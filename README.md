@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR GRANDE -->
 <!-- Si prefieres subir tu propia imagen, reemplaza este <img ... /> por: <img src="./tu-banner.png" width="100%" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Welcome%20to%20Jhon's%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" alt="Header Banner" />
+<img src="./fondo.png" width="100%" alt="Header Banner" />
 
 <div align="center">
   <p><i>Desarrollador de Software | Estudiante de Ingeniería de Sistemas</i></p>
