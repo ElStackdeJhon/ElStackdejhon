@@ -1,6 +1,5 @@
 <!-- BANNER SUPERIOR GRANDE -->
 <!-- Si prefieres subir tu propia imagen, reemplaza este <img ... /> por: <img src="./tu-banner.png" width="100%" /> -->
-<img src="./fondo.png" width="100%" alt="Header Banner" />
 
 <div align="center">
   <h1>Welcome to Jhon's Github &lt;/&gt;</h1>
