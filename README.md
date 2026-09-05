@@ -3,6 +3,9 @@
 <img src="./fondo.png" width="100%" alt="Header Banner" />
 
 <div align="center">
+  <h1>Welcome to Jhon's Github &lt;/&gt;</h1>
+  <img src="./fondo.png" width="100%" alt="Header Banner" />
+
   <p><i>Desarrollador de Software | Estudiante de Ingeniería de Sistemas</i></p>
 
   <!-- Badges de contacto -->
