@@ -1,11 +1,9 @@
-<!-- BANNER SUPERIOR GRANDE -->
-<!-- Si prefieres subir tu propia imagen, reemplaza este <img ... /> por: <img src="./tu-banner.png" width="100%" /> -->
-
 <div align="center">
   <h1>Welcome to Jhon's Github &lt;/&gt;</h1>
   <img src="./fondo.png" width="100%" alt="Header Banner" />
 
-  <p><i>Software-Developer/Cybersegurity-BlueTeam | Ingeniero de Sistemas</i></p>
+  <!-- Subtítulo limpio en inglés (o cámbialo a español si prefieres) -->
+  <p><i>Full-Stack Developer | SOC Analyst | Systems Engineering</i></p>
 
   <!-- Badges de contacto -->
   <a href="https://linkedin.com/in/jhonmolina1508">
@@ -20,13 +18,13 @@
 
 ## 👤 About me
 
-Desarrollador de Software de 21 años apasionado por la creación de soluciones escalables, arquitectura limpia, testing y buenas prácticas de desarrollo. Enfocado en el desarrollo Web, Móvil y fundamentos de Ciberseguridad / SOC.
+Desarrollador de Software de 21 años apasionado por la creación de soluciones escalables, arquitectura limpia, testing y buenas prácticas de desarrollo[cite: 1]. Enfocado en el desarrollo Web, Móvil y fundamentos de Ciberseguridad / SOC[cite: 1].
 
-* 🎓 **Educación:** Estudiante de Ingeniería de Sistemas en la UNEFA (Extensión Punto Fijo, Venezuela).
-* 🏆 **Logros:** Ganador de la EXPO-FERIA Universitaria (2026).
-* 💼 **Experiencia:** Desarrollo Freelance (Gestión de Inventario E2E para Xtreme-Gym).
-* 🛡️ **Áreas de Interés:** Desarrollo Full-Stack, Blue Team, Monitoreo de Redes y Tráfico (TCP/IP, HTTP/S).
-* 🌐 **Idiomas:** Español (Nativo), Inglés B1 (Técnico / Profesional).
+* 🎓 **Educación:** Estudiante de Ingeniería de Sistemas en la UNEFA (Extensión Punto Fijo, Venezuela)[cite: 1].
+* 🏆 **Logros:** Ganador de la EXPO-FERIA Universitaria (2026)[cite: 1].
+* 💼 **Experiencia:** Desarrollo Freelance (Gestión de Inventario E2E para Xtreme-Gym)[cite: 1].
+* 🛡️ **Áreas de Interés:** Desarrollo Full-Stack, Blue Team, Monitoreo de Redes y Tráfico (TCP/IP, HTTP/S)[cite: 1].
+* 🌐 **Idiomas:** Español (Nativo), Inglés B1 (Técnico / Profesional)[cite: 1].
 
 ---
 
@@ -61,9 +59,6 @@ Desarrollador de Software de 21 años apasionado por la creación de soluciones 
 ## 📈 Statistics
 
 <div align="center">
-  <!-- Gráfica de estadísticas principales -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElStackdejhon&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  
-  <!-- Gráfica de lenguajes más usados -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElStackdejhon&layout=compact&theme=dark" alt="Top Languages" width="49%" />
 </div>
