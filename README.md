@@ -3,7 +3,7 @@
   <img src="./fondo.png" width="100%" alt="Header Banner" />
 
   <!-- Subtítulo limpio en inglés (o cámbialo a español si prefieres) -->
-  <p><i>Full-Stack Developer | SOC Analyst | Systems Engineering</i></p>
+  <p><i>Full-Stack Developer | Systems Engineering</i></p>
 
   <!-- Badges de contacto -->
   <a href="https://linkedin.com/in/jhonmolina1508">
@@ -23,7 +23,7 @@ Desarrollador de Software de 21 años apasionado por la creación de soluciones 
 * 🎓 **Educación:** Estudiante de Ingeniería de Sistemas en la UNEFA (Extensión Punto Fijo, Venezuela)[cite: 1].
 * 🏆 **Logros:** Ganador de la EXPO-FERIA Universitaria (2026)[cite: 1].
 * 💼 **Experiencia:** Desarrollo Freelance (Gestión de Inventario E2E para Xtreme-Gym)[cite: 1].
-* 🛡️ **Áreas de Interés:** Desarrollo Full-Stack, Blue Team, Monitoreo de Redes y Tráfico (TCP/IP, HTTP/S)[cite: 1].
+* 🛡️ **Áreas de Interés:** Desarrollo Full-Stack, Blue Team[cite: 1].
 * 🌐 **Idiomas:** Español (Nativo), Inglés B1 (Técnico / Profesional)[cite: 1].
 
 ---
@@ -48,10 +48,9 @@ Desarrollador de Software de 21 años apasionado por la creación de soluciones 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Tools & Cybersecurity**  
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
