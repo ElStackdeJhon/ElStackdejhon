@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Welcome to Jhon's Github &lt;/&gt;</h1>
+  <h1>Welcome to Jhon's GitHub &lt;/&gt;</h1>
   <img src="./fondo.png" width="100%" alt="Header Banner" />
 
-  <!-- Subtítulo limpio en inglés (o cámbialo a español si prefieres) -->
+  <!-- Subtitle -->
   <p><i>Full-Stack Developer | Systems Engineering</i></p>
 
-  <!-- Badges de contacto -->
+  <!-- Contact Badges -->
   <a href="https://linkedin.com/in/jhonmolina1508">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -18,13 +18,15 @@
 
 ## 👤 About me
 
-Desarrollador de Software de 21 años apasionado por la creación de soluciones escalables, arquitectura limpia, testing y buenas prácticas de desarrollo[cite: 1]. Enfocado en el desarrollo Web, Móvil y fundamentos de Ciberseguridad / SOC[cite: 1].
+21-year-old Software Developer passionate about building scalable solutions, clean architecture, testing, and development best practices. Focused on Web and Mobile development, Serverless Cloud Architectures (AWS), and Cybersecurity / SOC fundamentals.
 
-* 🎓 **Educación:** Estudiante de Ingeniería de Sistemas en la UNEFA (Extensión Punto Fijo, Venezuela)[cite: 1].
-* 🏆 **Logros:** Ganador de la EXPO-FERIA Universitaria (2026)[cite: 1].
-* 💼 **Experiencia:** Desarrollo Freelance (Gestión de Inventario E2E para Xtreme-Gym)[cite: 1].
-* 🛡️ **Áreas de Interés:** Desarrollo Full-Stack, Blue Team[cite: 1].
-* 🌐 **Idiomas:** Español (Nativo), Inglés B1 (Técnico / Profesional)[cite: 1].
+* 🎓 **Education:** Systems Engineering Student at UNEFA (Punto Fijo Extension, Venezuela).
+* 🏆 **Achievements & Certifications:** 
+  * Winner of the University EXPO-FERIA (2026).
+  * Completed **Jornadas Cloud 2026** (AWS & Serverless Architecture Training).
+* 💼 **Experience:** Freelance Development (E2E Inventory Management System for Xtreme-Gym).
+* 🛡️ **Interests:** Full-Stack Development, Cloud Computing & Serverless, Blue Team / Cybersecurity.
+* 🌐 **Languages:** Spanish (Native), English B1 (Technical / Professional).
 
 ---
 
@@ -47,6 +49,12 @@ Desarrollador de Software de 21 años apasionado por la creación de soluciones 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Cloud & Serverless**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
